@@ -16,8 +16,8 @@ I am currently seeking opportunities to apply my knowledge and skills in a profe
 
 # contact-
 
-Mobile No- +91 8077122635
-Email id- tarushigupta03@gmail.com
-Github- https://github.com/Taru1506
-LinkedIn- www.linkedin.com/in/tarushisandeepgupta
-Portfolio Link- 
+* Mobile No- +91 8077122635
+* Email id- tarushigupta03@gmail.com
+* Github- https://github.com/Taru1506
+* LinkedIn- www.linkedin.com/in/tarushisandeepgupta
+* Portfolio Link- https://github.com/Taru1506/PORTFOLIO
